@@ -1,0 +1,4 @@
+PyBurprestapi==1.0.0
+scikit-learn==1.4.2
+urllib3==2.2.1
+joblib==1.4.2
